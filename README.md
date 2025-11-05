@@ -17,7 +17,7 @@
 <details>
   <summary>👨‍💻 More about me</summary>
 
-  - 💬I'm 28 years old, I currently live in Brazil. I have knowledge with SQL and Python. I also worked as a content creator and video editor in 2021. This helped me develop important skills such as greater creativity, communication, marketing, analytical skills, community management and social media.
+  - 💬I'm 29 years old, I currently live in Brazil. I have knowledge with SQL and Python. I also worked as a content creator and video editor in 2021. This helped me develop important skills such as greater creativity, communication, marketing, analytical skills, community management and social media.
 
   - 👾 I've always really enjoyed playing and watching. I believe that our personal interests contribute to a more accurate perception of things and to solving problems.
 </details>
